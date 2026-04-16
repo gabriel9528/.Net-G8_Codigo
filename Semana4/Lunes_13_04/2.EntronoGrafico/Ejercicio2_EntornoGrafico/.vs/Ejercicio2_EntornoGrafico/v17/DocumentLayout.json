@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase2\\ejercicios-primeraparte\\2.entronografico\\ejercicio2_entornografico\\entornografico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|solutionrelative:entornografico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\entornografico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|solutionrelative:entornografico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase2\\ejercicios-primeraparte\\2.entronografico\\ejercicio2_entornografico\\entornografico\\pantalla3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|solutionrelative:entornografico\\pantalla3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase2\\ejercicios-primeraparte\\2.entronografico\\ejercicio2_entornografico\\entornografico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|solutionrelative:entornografico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\entornografico\\pantalla3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|solutionrelative:entornografico\\pantalla3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\entornografico\\pantalla2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{912AE6A6-56B5-4A65-8F8D-02524266B1EC}|EntornoGrafico\\EntornoGrafico.csproj|solutionrelative:entornografico\\pantalla2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pantalla3.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Pantalla3.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico\\Pantalla3.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Pantalla3.cs",
+              "RelativeToolTip": "EntornoGrafico\\Pantalla3.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:32:37.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Form1.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico\\Form1.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Form1.cs",
+              "RelativeToolTip": "EntornoGrafico\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:25:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Program.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Program.cs",
+              "RelativeToolTip": "EntornoGrafico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:24:51.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pantalla3.cs [Design]",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Pantalla3.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico\\Pantalla3.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Pantalla3.cs [Design]",
+              "RelativeToolTip": "EntornoGrafico\\Pantalla3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:18:04.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pantalla2.cs [Design]",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Pantalla2.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico\\Pantalla2.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Pantalla2.cs [Design]",
+              "RelativeToolTip": "EntornoGrafico\\Pantalla2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:13:35.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Form1.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico\\Form1.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase2\\Ejercicios-primeraParte\\2.EntronoGrafico\\Ejercicio2_EntornoGrafico\\EntornoGrafico\\Form1.cs [Design]",
+              "RelativeToolTip": "EntornoGrafico\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:05:54.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
