@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\ventas_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|solutionrelative:ventas_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\ventas_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|solutionrelative:ventas_productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\ventas_productos\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|solutionrelative:ventas_productos\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\ventas_productos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|solutionrelative:ventas_productos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\ventas_productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64217791-F3CA-4D16-B4AB-A859E9D625CD}|Ventas_Productos\\Ventas_Productos.csproj|solutionrelative:ventas_productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5194327E-678F-4D91-95A3-CD7AD7C90479}|SumaDeDosNumeros\\SumaDeDosNumeros.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\sumadedosnumeros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5194327E-678F-4D91-95A3-CD7AD7C90479}|SumaDeDosNumeros\\SumaDeDosNumeros.csproj|solutionrelative:sumadedosnumeros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\winformsappdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|solutionrelative:winformsappdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\winformsappdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|solutionrelative:winformsappdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\winformsappdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|solutionrelative:winformsappdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\winformsappdemo1\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|solutionrelative:winformsappdemo1\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D9CB51-F61A-46BB-AA00-3C048BE8F7A5}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D9CB51-F61A-46BB-AA00-3C048BE8F7A5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\winformsappdemo1\\infraestructre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|solutionrelative:winformsappdemo1\\infraestructre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\lunes_13_04\\winformsappdemo1\\winformsappdemo1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D454836-D8C8-400F-ACC7-8962E2BABF35}|WinFormsAppDemo1\\WinFormsAppDemo1.csproj|solutionrelative:winformsappdemo1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 676,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ventas_Productos\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Form1.Designer.cs",
+              "RelativeToolTip": "Ventas_Productos\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T03:39:38.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Program.cs",
+              "RelativeDocumentMoniker": "Ventas_Productos\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Program.cs",
+              "RelativeToolTip": "Ventas_Productos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T03:36:16.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Form1.cs",
+              "RelativeDocumentMoniker": "Ventas_Productos\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Form1.cs",
+              "RelativeToolTip": "Ventas_Productos\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T03:27:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Ventas.cs",
+              "RelativeDocumentMoniker": "Ventas_Productos\\Ventas.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Ventas.cs",
+              "RelativeToolTip": "Ventas_Productos\\Ventas.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T03:09:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Form1.cs",
+              "RelativeDocumentMoniker": "Ventas_Productos\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\Ventas_Productos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ventas_Productos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:37:48.773Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\SumaDeDosNumeros\\Form1.cs",
+              "RelativeDocumentMoniker": "SumaDeDosNumeros\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\SumaDeDosNumeros\\Form1.cs",
+              "RelativeToolTip": "SumaDeDosNumeros\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:03:59.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:31:24.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Logic.cs",
+              "RelativeDocumentMoniker": "WinFormsAppDemo1\\Logic.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Logic.cs",
+              "RelativeToolTip": "WinFormsAppDemo1\\Logic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:29:45.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppDemo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Form1.cs",
+              "RelativeToolTip": "WinFormsAppDemo1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:08:27.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsAppDemo1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Program.cs",
+              "RelativeToolTip": "WinFormsAppDemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:05:33.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppDemo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsAppDemo1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:02:59.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infraestructre.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Infraestructre.cs",
+              "RelativeDocumentMoniker": "WinFormsAppDemo1\\Infraestructre.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Infraestructre.cs",
+              "RelativeToolTip": "WinFormsAppDemo1\\Infraestructre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:30:03.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppDemo1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Lunes_13_04\\WinFormsAppDemo1\\WinFormsAppDemo1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsAppDemo1\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:05:10.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

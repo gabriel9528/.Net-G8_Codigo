@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\bin\Debug\net8.0-windows\SumaDeDosNumeros.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\bin\Debug\net8.0-windows\SumaDeDosNumeros.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\bin\Debug\net8.0-windows\SumaDeDosNumeros.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\bin\Debug\net8.0-windows\SumaDeDosNumeros.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\bin\Debug\net8.0-windows\SumaDeDosNumeros.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.Form1.resources
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\refint\SumaDeDosNumeros.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\SumaDeDosNumeros.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\SumaDeDosNumeros\obj\Debug\net8.0-windows\ref\SumaDeDosNumeros.dll

@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\bin\Debug\net8.0-windows\Ventas_Productos.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\bin\Debug\net8.0-windows\Ventas_Productos.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\bin\Debug\net8.0-windows\Ventas_Productos.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\bin\Debug\net8.0-windows\Ventas_Productos.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\bin\Debug\net8.0-windows\Ventas_Productos.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.Form1.resources
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\refint\Ventas_Productos.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\Ventas_Productos.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Lunes_13_04\WinFormsAppDemo1\Ventas_Productos\obj\Debug\net8.0-windows\ref\Ventas_Productos.dll
