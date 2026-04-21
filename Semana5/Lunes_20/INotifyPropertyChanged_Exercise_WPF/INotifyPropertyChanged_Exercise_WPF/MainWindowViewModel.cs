@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel;
-using System.IO.Packaging;
 using System.Windows.Input;
 
 namespace INotifyPropertyChanged_Exercise_WPF
@@ -37,16 +36,18 @@ namespace INotifyPropertyChanged_Exercise_WPF
             get { return _fullName; }
             set
             {
-                _lastName = value;
+                _fullName = value;
                 OnPropertyChanged(nameof(FullName));
-                UpdateFullNameFromNames();
+                UpdateNamesFromFullName();
             }
         }
 
-        private void UpdateFullNameFromNames()
+        public MainWindowViewModel()
         {
-            _fullName = $"{FirstName} {LastName}";
-            OnPropertyChanged(nameof(FullName));
+            UpdateCommand = new RelayCommand(Update, CanUpdate);
+            _firstName = string.Empty;
+            _lastName = string.Empty;
+            UpdateFullNameFromNames();
         }
 
         //ICOMMAND
@@ -55,14 +56,38 @@ namespace INotifyPropertyChanged_Exercise_WPF
         private void Update()
         {
             //logica de actualizacion
-            FirstName = "updated";
-            LastName = "Name";
+            FirstName = "firstName";
+            LastName = "lastName";
         }
 
         private bool CanUpdate()
         {
             return !string.IsNullOrWhiteSpace(FirstName) && !string.IsNullOrWhiteSpace(LastName);
         }
+
+        private void UpdateFullNameFromNames()
+        {
+            _fullName = $"{FirstName} {LastName}";
+            OnPropertyChanged(nameof(FullName));
+        }
+
+
+        private void UpdateNamesFromFullName()
+        {
+            var names = _fullName.Split(new[] { ' ' }, 2);
+            if(names.Length == 2)
+            {
+                FirstName = names[0];
+                LastName = names[1];
+            }
+            else
+            {
+                FirstName = _fullName;
+                LastName = "";
+            }
+        }
+
+
 
         public event PropertyChangedEventHandler? PropertyChanged;
         protected void OnPropertyChanged(string propertyName)
