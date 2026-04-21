@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Semaforo_WPF\\Semaforo_WPF.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

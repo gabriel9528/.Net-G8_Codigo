@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Miercoles_15_04\\TresEnRaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB19C59-F787-448F-A6AC-6DB29FBB2C2B}|TresEnRaya\\TresEnRaya.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\miercoles_15_04\\tresenraya\\tresenraya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AB19C59-F787-448F-A6AC-6DB29FBB2C2B}|TresEnRaya\\TresEnRaya.csproj|solutionrelative:tresenraya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB19C59-F787-448F-A6AC-6DB29FBB2C2B}|TresEnRaya\\TresEnRaya.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\miercoles_15_04\\tresenraya\\tresenraya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB19C59-F787-448F-A6AC-6DB29FBB2C2B}|TresEnRaya\\TresEnRaya.csproj|solutionrelative:tresenraya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB19C59-F787-448F-A6AC-6DB29FBB2C2B}|TresEnRaya\\TresEnRaya.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana4\\miercoles_15_04\\tresenraya\\tresenraya\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB19C59-F787-448F-A6AC-6DB29FBB2C2B}|TresEnRaya\\TresEnRaya.csproj|solutionrelative:tresenraya\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 676,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Miercoles_15_04\\TresEnRaya\\TresEnRaya\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TresEnRaya\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Miercoles_15_04\\TresEnRaya\\TresEnRaya\\Form1.Designer.cs",
+              "RelativeToolTip": "TresEnRaya\\Form1.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwG4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:49:59.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Miercoles_15_04\\TresEnRaya\\TresEnRaya\\Form1.cs",
+              "RelativeDocumentMoniker": "TresEnRaya\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Miercoles_15_04\\TresEnRaya\\TresEnRaya\\Form1.cs",
+              "RelativeToolTip": "TresEnRaya\\Form1.cs",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAQwAECAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:46:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Miercoles_15_04\\TresEnRaya\\TresEnRaya\\Form1.cs",
+              "RelativeDocumentMoniker": "TresEnRaya\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana4\\Miercoles_15_04\\TresEnRaya\\TresEnRaya\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TresEnRaya\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:41:56.826Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

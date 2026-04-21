@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion_WPF", "Introduccion_WPF\Introduccion_WPF.csproj", "{62F9467A-259C-4F24-9DA6-69D024FF6318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_StackPanel", "WPF_StackPanel\WPF_StackPanel.csproj", "{9CD884CB-2DF7-4B9B-B89D-3D542838AC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button_WPF", "Button_WPF\Button_WPF.csproj", "{FC547490-4AAD-4761-9127-05A1777C6FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox_RadioButton_WPF", "ComboBox_RadioButton_WPF\ComboBox_RadioButton_WPF.csproj", "{FEE0F3A0-C412-4F8E-9798-1B6230F62D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaforo_WPF", "Semaforo_WPF\Semaforo_WPF.csproj", "{CD9D55AE-F7AC-4627-BCCE-5F77EFAFE126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F9467A-259C-4F24-9DA6-69D024FF6318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F9467A-259C-4F24-9DA6-69D024FF6318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F9467A-259C-4F24-9DA6-69D024FF6318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F9467A-259C-4F24-9DA6-69D024FF6318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD884CB-2DF7-4B9B-B89D-3D542838AC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD884CB-2DF7-4B9B-B89D-3D542838AC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD884CB-2DF7-4B9B-B89D-3D542838AC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD884CB-2DF7-4B9B-B89D-3D542838AC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC547490-4AAD-4761-9127-05A1777C6FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC547490-4AAD-4761-9127-05A1777C6FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC547490-4AAD-4761-9127-05A1777C6FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC547490-4AAD-4761-9127-05A1777C6FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE0F3A0-C412-4F8E-9798-1B6230F62D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE0F3A0-C412-4F8E-9798-1B6230F62D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE0F3A0-C412-4F8E-9798-1B6230F62D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE0F3A0-C412-4F8E-9798-1B6230F62D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9D55AE-F7AC-4627-BCCE-5F77EFAFE126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9D55AE-F7AC-4627-BCCE-5F77EFAFE126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9D55AE-F7AC-4627-BCCE-5F77EFAFE126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9D55AE-F7AC-4627-BCCE-5F77EFAFE126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {988FE01E-4770-4903-8091-E53C5F61D507}
+	EndGlobalSection
+EndGlobal

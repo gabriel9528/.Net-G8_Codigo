@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\bin\Debug\net8.0-windows\TresEnRaya.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\bin\Debug\net8.0-windows\TresEnRaya.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\bin\Debug\net8.0-windows\TresEnRaya.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\bin\Debug\net8.0-windows\TresEnRaya.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\bin\Debug\net8.0-windows\TresEnRaya.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.Form1.resources
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\refint\TresEnRaya.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\TresEnRaya.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana4\Miercoles_15_04\TresEnRaya\TresEnRaya\obj\Debug\net8.0-windows\ref\TresEnRaya.dll

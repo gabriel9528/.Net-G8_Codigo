@@ -1,0 +1,30 @@
+﻿<Window x:Class="Introduccion_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Introduccion_WPF"
+        mc:Ignorable="d"
+        Title="Proyecto Codigo Tecsup" Height="600" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="Hello World" 
+                   TextAlignment="Center" 
+                   VerticalAlignment="Center"
+                   Grid.Column="0" 
+                   Grid.Row="0" FontSize="30" 
+                   Foreground="Red" 
+                   Grid.ColumnSpan="4"
+                   Grid.RowSpan="2" />
+    </Grid>
+</Window>
