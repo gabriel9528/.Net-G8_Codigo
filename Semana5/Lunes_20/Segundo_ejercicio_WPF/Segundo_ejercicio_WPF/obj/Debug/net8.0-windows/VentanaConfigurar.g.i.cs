@@ -117,7 +117,7 @@ namespace Segundo_ejercicio_WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Segundo_ejercicio_WPF;component/ventanaconfigurar.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Segundo_ejercicio_WPF;V1.0.0.0;component/ventanaconfigurar.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\VentanaConfigurar.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

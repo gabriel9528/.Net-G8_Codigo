@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Segundo_ejercicio_WPF")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("INotifyPropertyChanged_Exercise_WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a30d0f7334aa7d1ef99aebb44c26396e346bb48")]
-[assembly: System.Reflection.AssemblyProductAttribute("Segundo_ejercicio_WPF")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Segundo_ejercicio_WPF")]
+[assembly: System.Reflection.AssemblyProductAttribute("INotifyPropertyChanged_Exercise_WPF")]
+[assembly: System.Reflection.AssemblyTitleAttribute("INotifyPropertyChanged_Exercise_WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
