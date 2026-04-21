@@ -16,9 +16,23 @@ namespace Segundo_ejercicio_WPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        Control ControlMain { get; set; }
         public MainWindow()
         {
             InitializeComponent();
+            ControlMain = new Control();
+        }
+
+        private void buttonConfigurar_Click(object sender, RoutedEventArgs e)
+        {
+            VentanaConfigurar ventanaConfigurar = new VentanaConfigurar(ControlMain);
+            ventanaConfigurar.ShowDialog();
+        }
+
+        private void buttonEmpezarJuego_Click(object sender, RoutedEventArgs e)
+        {
+            VentanaJugar ventanaJugar = new VentanaJugar(ControlMain);
+            ventanaJugar.ShowDialog();
         }
     }
 }

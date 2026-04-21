@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\configurar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\configurar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\ventanajugar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\ventanajugar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\ventanaconfigurar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\ventanaconfigurar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\ventanajugar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\ventanajugar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\ventanaconfigurar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\ventanaconfigurar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\lunes_20\\segundo_ejercicio_wpf\\segundo_ejercicio_wpf\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFEA49F-5566-40B4-8221-1786A6352134}|Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF.csproj|solutionrelative:segundo_ejercicio_wpf\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +47,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Configurar.xaml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\Configurar.xaml",
-              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\Configurar.xaml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\Configurar.xaml",
-              "RelativeToolTip": "Segundo_ejercicio_WPF\\Configurar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-21T00:30:52.405Z",
+              "Title": "VentanaJugar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaJugar.xaml.cs",
+              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\VentanaJugar.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaJugar.xaml.cs",
+              "RelativeToolTip": "Segundo_ejercicio_WPF\\VentanaJugar.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:56:33.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\MainWindow.xaml",
-              "RelativeToolTip": "Segundo_ejercicio_WPF\\MainWindow.xaml",
+              "Title": "VentanaConfigurar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaConfigurar.xaml.cs",
+              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\VentanaConfigurar.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaConfigurar.xaml.cs",
+              "RelativeToolTip": "Segundo_ejercicio_WPF\\VentanaConfigurar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:41:05.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\Control.cs",
+              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\Control.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\Control.cs",
+              "RelativeToolTip": "Segundo_ejercicio_WPF\\Control.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:07:54.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentanaJugar.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaJugar.xaml",
+              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\VentanaJugar.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaJugar.xaml",
+              "RelativeToolTip": "Segundo_ejercicio_WPF\\VentanaJugar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-21T00:26:42.487Z",
+              "WhenOpened": "2026-04-21T00:57:08.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\Region.cs",
+              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\Region.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\Region.cs",
+              "RelativeToolTip": "Segundo_ejercicio_WPF\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:06:07.806Z",
               "EditorCaption": ""
             },
             {
@@ -56,9 +116,33 @@
               "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "Segundo_ejercicio_WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T00:26:39.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentanaConfigurar.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaConfigurar.xaml",
+              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\VentanaConfigurar.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\VentanaConfigurar.xaml",
+              "RelativeToolTip": "Segundo_ejercicio_WPF\\VentanaConfigurar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T01:38:43.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Segundo_ejercicio_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Lunes_20\\Segundo_ejercicio_WPF\\Segundo_ejercicio_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Segundo_ejercicio_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T00:26:42.487Z",
               "EditorCaption": ""
             }
           ]

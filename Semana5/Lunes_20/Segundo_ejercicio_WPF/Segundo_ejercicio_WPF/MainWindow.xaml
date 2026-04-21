@@ -8,9 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="buttonConfigurar" Content="Configurar" HorizontalAlignment="Left" 
-                Margin="85, 240, 0, 0" VerticalAlignment="Top" Height="140" Width="180" />
+                Margin="85, 240, 0, 0" VerticalAlignment="Top" Height="140" Width="180" Click="buttonConfigurar_Click" />
 
         <Button x:Name="buttonEmpezarJuego" Content="Empezar a jugar" HorizontalAlignment="Left" 
-        Margin="500, 240, 0, 0" VerticalAlignment="Top" Height="140" Width="180" />
+        Margin="500, 240, 0, 0" VerticalAlignment="Top" Height="140" Width="180" Click="buttonEmpezarJuego_Click" />
     </Grid>
 </Window>
