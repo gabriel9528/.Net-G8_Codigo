@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\cliente\\vegetariana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\cliente\\vegetariana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\cliente\\peperoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\cliente\\peperoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\cliente\\napolitana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\cliente\\napolitana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\fabricaconcreta\\limapizzaingredientesfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\fabricaconcreta\\limapizzaingredientesfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\fabricaconcreta\\arequipapizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\fabricaconcreta\\arequipapizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\fabricaabstracta\\ipizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\fabricaabstracta\\ipizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\typeofpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\typeofpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoconcretos\\lima\\limasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoconcretos\\lima\\limasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoconcretos\\lima\\limaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoconcretos\\lima\\limaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoconcretos\\lima\\limamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoconcretos\\lima\\limamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoconcretos\\arequipa\\arequipamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoconcretos\\arequipa\\arequipamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoconcretos\\arequipa\\arequipasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoconcretos\\arequipa\\arequipasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoconcretos\\arequipa\\arequipaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoconcretos\\arequipa\\arequipaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoabstracto\\interfaces\\isalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoabstracto\\interfaces\\isalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoabstracto\\interfaces\\iverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoabstracto\\interfaces\\iverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoabstracto\\interfaces\\iqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoabstracto\\interfaces\\iqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\miercoles_22_04\\abstractfactory\\pizzeriaafterb\\pizzeriabefore\\productoabstracto\\interfaces\\imasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB952B-9740-404A-8245-D644DA840537}|PizzeriaBefore\\PizzeriaBefore.csproj|solutionrelative:pizzeriabefore\\productoabstracto\\interfaces\\imasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 676,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vegetariana.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Cliente\\Vegetariana.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\Cliente\\Vegetariana.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Cliente\\Vegetariana.cs",
+              "RelativeToolTip": "PizzeriaBefore\\Cliente\\Vegetariana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:49:38.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Peperoni.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Cliente\\Peperoni.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\Cliente\\Peperoni.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Cliente\\Peperoni.cs",
+              "RelativeToolTip": "PizzeriaBefore\\Cliente\\Peperoni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:47:39.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Napolitana.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Cliente\\Napolitana.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\Cliente\\Napolitana.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Cliente\\Napolitana.cs",
+              "RelativeToolTip": "PizzeriaBefore\\Cliente\\Napolitana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:43:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LimaPizzaIngredientesFactory .cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\FabricaConcreta\\LimaPizzaIngredientesFactory .cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\FabricaConcreta\\LimaPizzaIngredientesFactory .cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\FabricaConcreta\\LimaPizzaIngredientesFactory .cs",
+              "RelativeToolTip": "PizzeriaBefore\\FabricaConcreta\\LimaPizzaIngredientesFactory .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:39:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArequipaPizzaIngredientesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\FabricaConcreta\\ArequipaPizzaIngredientesFactory.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\FabricaConcreta\\ArequipaPizzaIngredientesFactory.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\FabricaConcreta\\ArequipaPizzaIngredientesFactory.cs",
+              "RelativeToolTip": "PizzeriaBefore\\FabricaConcreta\\ArequipaPizzaIngredientesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:37:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Program.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Program.cs",
+              "RelativeToolTip": "PizzeriaBefore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T01:17:43.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPizzaIngredientesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "RelativeToolTip": "PizzeriaBefore\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:35:12.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LimaSalsas.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Lima\\LimaSalsas.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoConcretos\\Lima\\LimaSalsas.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Lima\\LimaSalsas.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoConcretos\\Lima\\LimaSalsas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:24:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\Pizza.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\Pizza.cs",
+              "RelativeToolTip": "PizzeriaBefore\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:13:10.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LimaQueso.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Lima\\LimaQueso.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoConcretos\\Lima\\LimaQueso.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Lima\\LimaQueso.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoConcretos\\Lima\\LimaQueso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:23:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LimaMasa.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Lima\\LimaMasa.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoConcretos\\Lima\\LimaMasa.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Lima\\LimaMasa.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoConcretos\\Lima\\LimaMasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:23:35.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArequipaSalsas.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaSalsas.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaSalsas.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaSalsas.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaSalsas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:21:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArequipaMasa.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaMasa.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaMasa.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaMasa.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaMasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:19:05.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TypeOfPizza.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\TypeOfPizza.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\TypeOfPizza.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\TypeOfPizza.cs",
+              "RelativeToolTip": "PizzeriaBefore\\TypeOfPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:11:29.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArequipaQueso.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaQueso.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaQueso.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaQueso.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoConcretos\\Arequipa\\ArequipaQueso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:20:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IVerduras.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:17:35.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISalsas.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:16:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IQueso.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:16:07.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMasa.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "RelativeDocumentMoniker": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Miercoles_22_04\\AbstractFactory\\PizzeriaAfterB\\PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "RelativeToolTip": "PizzeriaBefore\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:15:09.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
