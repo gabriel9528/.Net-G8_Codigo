@@ -36,5 +36,10 @@ namespace ExerciseBuilder.ConcreteBuilder
         {
             _sandwich.Verduras = "Lechuga, Tomate";
         }
+
+        public override Sandwich GetSandwich()
+        {
+            return _sandwich;
+        }
     }
 }

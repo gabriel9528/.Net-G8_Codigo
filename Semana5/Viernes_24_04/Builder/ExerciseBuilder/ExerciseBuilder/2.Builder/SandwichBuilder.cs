@@ -1,4 +1,6 @@
-﻿namespace ExerciseBuilder.Builder
+﻿using ExerciseBuilder.Product;
+
+namespace ExerciseBuilder.Builder
 {
     public abstract class SandwichBuilder
     {
@@ -7,6 +9,8 @@
         public abstract void AgregarProteina();
         public abstract void AgregarCondimento();
         public abstract void AgregarQueso();
+
+        public abstract Sandwich GetSandwich();
 
     }
 }

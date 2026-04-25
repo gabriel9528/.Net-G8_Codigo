@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\bin\Debug\net8.0\ExerciseBuilder.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\bin\Debug\net8.0\ExerciseBuilder.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\bin\Debug\net8.0\ExerciseBuilder.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\bin\Debug\net8.0\ExerciseBuilder.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\bin\Debug\net8.0\ExerciseBuilder.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\refint\ExerciseBuilder.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ExerciseBuilder.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\Builder\ExerciseBuilder\ExerciseBuilder\obj\Debug\net8.0\ref\ExerciseBuilder.dll
