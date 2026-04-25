@@ -6,13 +6,13 @@
 
         public SandwichBuilder AgregarPan()
         {
-            _sandwich.Proteinas = "Pan de molde";
+            _sandwich.Pan = "Pan de molde";
             return this;
         }
 
         public SandwichBuilder AgregarVerduras()
         {
-            _sandwich.Proteinas = "Lechuga, tomate";
+            _sandwich.Verduras = "Lechuga, tomate";
             return this;
         }
 
@@ -24,13 +24,13 @@
 
         public SandwichBuilder AgregarCondimentos()
         {
-            _sandwich.Proteinas = "Mayonesa, Mostaza";
+            _sandwich.Condimentos = "Mayonesa, Mostaza";
             return this;
         }
 
         public SandwichBuilder AgregarQueso()
         {
-            _sandwich.Proteinas = "Queso Cheedar";
+            _sandwich.Queso = "Queso Cheedar";
             return this;
         }
 

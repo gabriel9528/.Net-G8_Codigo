@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\bin\Debug\net8.0\ExerciseFluentBuilder.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\bin\Debug\net8.0\ExerciseFluentBuilder.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\bin\Debug\net8.0\ExerciseFluentBuilder.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\bin\Debug\net8.0\ExerciseFluentBuilder.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\bin\Debug\net8.0\ExerciseFluentBuilder.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\refint\ExerciseFluentBuilder.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ExerciseFluentBuilder.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana5\Viernes_24_04\FluentBuilder\ExerciseFluentBuilder\ExerciseFluentBuilder\obj\Debug\net8.0\ref\ExerciseFluentBuilder.dll

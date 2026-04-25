@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciseFluentBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4d88a9c3a83a8cd62e7dfb21152d26ec663a23d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c1d04f673e1ad71700be7019d6ccaf7a8f6772e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciseFluentBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciseFluentBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
