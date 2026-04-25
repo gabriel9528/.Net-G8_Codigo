@@ -1,25 +1,38 @@
-﻿namespace DeepCopy
+﻿using System.Text.Json;
+
+namespace DeepCopy
 {
-    public interface IPrototype<T>
+    public static class ExtensionMethos
     {
-        T DeepCopy();
+        public static T DeepCopy<T>(this T source)
+        {
+            if(source == null)
+            {
+                throw new ArgumentNullException(nameof(source), "La fuente a copiar no puede estar vacia");
+            }
+            var options = new JsonSerializerOptions
+            {
+                WriteIndented = false,
+                IncludeFields = true,
+            };
+
+            var jsonString = JsonSerializer.Serialize(source, options);
+
+            //Deserializarlo
+            return JsonSerializer.Deserialize<T>(jsonString, options);
+        }
     }
 
-    public class Category : IPrototype<Category>
+    public class Category
     {
         public string Name { get; set; }
         public Category(string name)
         {
             Name = name;
         }
-
-        public Category DeepCopy()
-        {
-            return new Category(Name);
-        }
     }
 
-    public class Product : IPrototype<Product> 
+    public class Product
     {
         public string Name { get; set; }
         public Category Category { get; set; }
@@ -27,11 +40,6 @@
         {
             Name = name;
             Category = category;
-        }
-
-        public Product DeepCopy()
-        {
-            return new Product(Name, Category.DeepCopy());
         }
         public override string ToString()
         {

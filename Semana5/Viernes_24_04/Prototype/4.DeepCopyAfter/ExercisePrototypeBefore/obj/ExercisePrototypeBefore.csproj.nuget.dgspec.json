@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\3.DeepCopyBefore\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\4.DeepCopyAfter\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\3.DeepCopyBefore\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\4.DeepCopyAfter\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\3.DeepCopyBefore\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\4.DeepCopyAfter\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj",
         "projectName": "ExercisePrototypeBefore",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\3.DeepCopyBefore\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\4.DeepCopyAfter\\ExercisePrototypeBefore\\ExercisePrototypeBefore.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\3.DeepCopyBefore\\ExercisePrototypeBefore\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Prototype\\4.DeepCopyAfter\\ExercisePrototypeBefore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
