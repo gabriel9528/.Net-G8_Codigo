@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Builder\\ExerciseBuilder\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\viernes_24_04\\builder\\exercisebuilder\\exercisebuilder\\1,product\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|solutionrelative:exercisebuilder\\1,product\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\viernes_24_04\\builder\\exercisebuilder\\exercisebuilder\\2.builder\\sandwichbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|solutionrelative:exercisebuilder\\2.builder\\sandwichbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\viernes_24_04\\builder\\exercisebuilder\\exercisebuilder\\3.concretebuilder\\cheeseburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|solutionrelative:exercisebuilder\\3.concretebuilder\\cheeseburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana5\\viernes_24_04\\builder\\exercisebuilder\\exercisebuilder\\1,product\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD91D8B-0728-4573-9D36-0BE7A1BB11BA}|ExerciseBuilder\\ExerciseBuilder.csproj|solutionrelative:exercisebuilder\\1,product\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 676,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SandwichAssembly.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Builder\\ExerciseBuilder\\ExerciseBuilder\\4.Director\\SandwichAssembly.cs",
               "RelativeDocumentMoniker": "ExerciseBuilder\\4.Director\\SandwichAssembly.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "ExerciseBuilder\\4.Director\\SandwichAssembly.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T02:57:46.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T02:57:46.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CheeseBurger.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Builder\\ExerciseBuilder\\ExerciseBuilder\\3.ConcreteBuilder\\CheeseBurger.cs",
               "RelativeDocumentMoniker": "ExerciseBuilder\\3.ConcreteBuilder\\CheeseBurger.cs",
@@ -55,12 +54,11 @@
               "RelativeToolTip": "ExerciseBuilder\\3.ConcreteBuilder\\CheeseBurger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T02:43:48.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T02:43:48.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SandwichBuilder.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Builder\\ExerciseBuilder\\ExerciseBuilder\\2.Builder\\SandwichBuilder.cs",
               "RelativeDocumentMoniker": "ExerciseBuilder\\2.Builder\\SandwichBuilder.cs",
@@ -73,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Sandwich.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Builder\\ExerciseBuilder\\ExerciseBuilder\\1,Product\\Sandwich.cs",
               "RelativeDocumentMoniker": "ExerciseBuilder\\1,Product\\Sandwich.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Builder\\ExerciseBuilder\\ExerciseBuilder\\1,Product\\Sandwich.cs",
               "RelativeToolTip": "ExerciseBuilder\\1,Product\\Sandwich.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T02:35:23.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana5\\Viernes_24_04\\Builder\\ExerciseBuilder\\ExerciseBuilder\\Program.cs",
               "RelativeDocumentMoniker": "ExerciseBuilder\\Program.cs",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "ExerciseBuilder\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T02:33:21.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T02:33:21.737Z"
             }
           ]
         }
