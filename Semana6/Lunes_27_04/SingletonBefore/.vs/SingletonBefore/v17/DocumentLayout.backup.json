@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\unittestproject1\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\singletonbefore\\singletonfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|solutionrelative:singletonbefore\\singletonfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\unittestproject1\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\unittestproject1\\singletonfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18F82BF-C7A7-44E0-AD18-6C6323BC6C64}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\singletonfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\singletonbefore\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|solutionrelative:singletonbefore\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\singletonbefore\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|solutionrelative:singletonbefore\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\singletonbefore\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|solutionrelative:singletonbefore\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\singletonbefore\\singletonbefore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE4B35B-E7D0-44C9-A407-BED97088EE47}|SingletonBefore\\SingletonBefore.csproj|solutionrelative:singletonbefore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 676,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\SingletonContainer.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\SingletonContainer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\SingletonContainer.cs",
+              "RelativeToolTip": "UnitTestProject1\\SingletonContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T01:44:50.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingletonFinder.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\SingletonFinder.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\SingletonFinder.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\SingletonFinder.cs",
+              "RelativeToolTip": "UnitTestProject1\\SingletonFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T01:39:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Capitales.txt",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\Capitales.txt",
+              "RelativeDocumentMoniker": "UnitTestProject1\\Capitales.txt",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\Capitales.txt",
+              "RelativeToolTip": "UnitTestProject1\\Capitales.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-28T01:36:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T01:34:52.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SingletonFinder.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\SingletonFinder.cs",
+              "RelativeDocumentMoniker": "SingletonBefore\\SingletonFinder.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\SingletonFinder.cs",
+              "RelativeToolTip": "SingletonBefore\\SingletonFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T01:30:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\SingletonContainer.cs",
+              "RelativeDocumentMoniker": "SingletonBefore\\SingletonContainer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\SingletonContainer.cs",
+              "RelativeToolTip": "SingletonBefore\\SingletonContainer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T00:49:00.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\ISingletonContainer.cs",
+              "RelativeDocumentMoniker": "SingletonBefore\\ISingletonContainer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\ISingletonContainer.cs",
+              "RelativeToolTip": "SingletonBefore\\ISingletonContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T00:47:43.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Capitales.txt",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\Capitales.txt",
+              "RelativeDocumentMoniker": "SingletonBefore\\Capitales.txt",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\Capitales.txt",
+              "RelativeToolTip": "SingletonBefore\\Capitales.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-28T00:45:43.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonBefore\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\SingletonBefore\\SingletonBefore\\Program.cs",
+              "RelativeToolTip": "SingletonBefore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T00:43:01.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

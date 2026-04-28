@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\bin\Debug\net8.0\SingletonBefore.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\bin\Debug\net8.0\SingletonBefore.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\bin\Debug\net8.0\SingletonBefore.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\bin\Debug\net8.0\SingletonBefore.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\bin\Debug\net8.0\SingletonBefore.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\refint\SingletonBefore.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\SingletonBefore.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\obj\Debug\net8.0\ref\SingletonBefore.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana6\Lunes_27_04\SingletonBefore\SingletonBefore\bin\Debug\net8.0\Capitales.txt
