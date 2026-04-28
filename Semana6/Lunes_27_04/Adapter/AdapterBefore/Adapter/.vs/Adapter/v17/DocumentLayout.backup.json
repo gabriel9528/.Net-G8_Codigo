@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\Adapter\\AdapterBefore\\Adapter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\adapter\\adapterbefore\\adapter\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\adapter\\adapterbefore\\adapter\\adapter\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|solutionrelative:adapter\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\adapter\\adapterbefore\\adapter\\adapter\\jsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|solutionrelative:adapter\\jsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana6\\lunes_27_04\\adapter\\adapterbefore\\adapter\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6674FDEE-26B1-4575-A443-EDB0F09C9B1F}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 676,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "JsonConverter.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\Adapter\\AdapterBefore\\Adapter\\Adapter\\JsonConverter.cs",
               "RelativeDocumentMoniker": "Adapter\\JsonConverter.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\Adapter\\AdapterBefore\\Adapter\\Adapter\\ProductDataProvider.cs",
               "RelativeDocumentMoniker": "Adapter\\ProductDataProvider.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\Adapter\\AdapterBefore\\Adapter\\Adapter\\Product.cs",
               "RelativeDocumentMoniker": "Adapter\\Product.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\Adapter\\AdapterBefore\\Adapter\\Adapter\\Program.cs",
               "RelativeDocumentMoniker": "Adapter\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana6\\Lunes_27_04\\Adapter\\AdapterBefore\\Adapter\\Adapter\\Program.cs",
               "RelativeToolTip": "Adapter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T02:47:59.591Z",
               "EditorCaption": ""
