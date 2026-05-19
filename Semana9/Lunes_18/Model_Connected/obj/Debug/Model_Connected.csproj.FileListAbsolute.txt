@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\bin\Debug\Model_Connected.exe.config
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\bin\Debug\Model_Connected.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\bin\Debug\Model_Connected.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.Form1.resources
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Lunes_18\Model_Connected\obj\Debug\Model_Connected.exe.config
