@@ -101,6 +101,7 @@
             this.button_add.TabIndex = 6;
             this.button_add.Text = "Add";
             this.button_add.UseVisualStyleBackColor = true;
+            this.button_add.Click += new System.EventHandler(this.button_add_Click);
             // 
             // comboBox_air_plane_type
             // 
@@ -132,6 +133,7 @@
             this.comboBox_select.Name = "comboBox_select";
             this.comboBox_select.Size = new System.Drawing.Size(294, 24);
             this.comboBox_select.TabIndex = 9;
+            this.comboBox_select.SelectedIndexChanged += new System.EventHandler(this.comboBox_select_SelectedIndexChanged);
             // 
             // button_update
             // 
@@ -141,6 +143,7 @@
             this.button_update.TabIndex = 10;
             this.button_update.Text = "Update";
             this.button_update.UseVisualStyleBackColor = true;
+            this.button_update.Click += new System.EventHandler(this.button_update_Click);
             // 
             // button_delete
             // 
@@ -150,6 +153,7 @@
             this.button_delete.TabIndex = 11;
             this.button_delete.Text = "Delete";
             this.button_delete.UseVisualStyleBackColor = true;
+            this.button_delete.Click += new System.EventHandler(this.button_delete_Click);
             // 
             // button_refresh
             // 
@@ -159,6 +163,7 @@
             this.button_refresh.TabIndex = 12;
             this.button_refresh.Text = "Refresh";
             this.button_refresh.UseVisualStyleBackColor = true;
+            this.button_refresh.Click += new System.EventHandler(this.button_refresh_Click);
             // 
             // dataGridView1
             // 
