@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8613BCC3-C2D3-4F3B-9DC5-EF380FA82966}|Modelo_Desconectado_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\miercoles_20\\modelo_desconectado_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8613BCC3-C2D3-4F3B-9DC5-EF380FA82966}|Modelo_Desconectado_WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8613BCC3-C2D3-4F3B-9DC5-EF380FA82966}|Modelo_Desconectado_WPF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\miercoles_20\\modelo_desconectado_wpf\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
-      "RelativeMoniker": "D:0:0:{8613BCC3-C2D3-4F3B-9DC5-EF380FA82966}|Modelo_Desconectado_WPF.csproj|solutionrelative:dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataSet1.xsd",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\Modelo_Desconectado_WPF\\DataSet1.xsd",
-              "RelativeDocumentMoniker": "DataSet1.xsd",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\Modelo_Desconectado_WPF\\DataSet1.xsd",
-              "RelativeToolTip": "DataSet1.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2026-05-21T01:22:42.271Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\Modelo_Desconectado_WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\Modelo_Desconectado_WPF\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\Modelo_Desconectado_WPF\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-21T00:36:14.395Z",
               "EditorCaption": ""
@@ -56,7 +40,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\Modelo_Desconectado_WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwCkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAjwI8AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T00:36:10.116Z",
               "EditorCaption": ""

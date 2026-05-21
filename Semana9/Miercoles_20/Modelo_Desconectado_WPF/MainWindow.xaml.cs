@@ -1,4 +1,5 @@
 ﻿using Modelo_Desconectado_WPF.DataSet1TableAdapters;
+using System.Data;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -36,17 +37,9 @@ namespace Modelo_Desconectado_WPF
         public MainWindow()
         {
             InitializeComponent();
-            listAirPlaneTypes.Clear();
-            listAirPlaneTypes.Add("Boeing 737");
-            listAirPlaneTypes.Add("Boeing 747");
-            listAirPlaneTypes.Add("Boeing 757");
-            listAirPlaneTypes.Add("Boeing 767");
-            listAirPlaneTypes.Add("Boeing 777");
-            listAirPlaneTypes.Add("AirBus 123");
-            listAirPlaneTypes.Add("AirBus 500");
-            listAirPlaneTypes.Add("AirBus 900");
 
             RefreshDataGridFlight();
+            LoadUniqueAirplaneTypes();
         }
 
         private void RefreshDataGridFlight()
@@ -56,23 +49,110 @@ namespace Modelo_Desconectado_WPF
             flightInfoTableAdapter.Fill(dataSet1.FlightInfo);
 
             flightInfoTableAdapter.Fill(flightInfoDataTable);
+            
             dataGridFlights.ItemsSource = flightInfoDataTable;
 
             comboBoxFlights.ItemsSource = flightInfoDataTable;
             comboBoxFlights.DisplayMemberPath = "flight_number";
             comboBoxFlights.SelectedValuePath = "id";
 
-    
+
         }
 
 
         #region Flights
+
+        private void LoadUniqueAirplaneTypes()
+        {
+
+            listAirPlaneTypes.Clear();
+
+            flightInfoTableAdapter.Fill(dataSet1.FlightInfo);
+
+            var uniqueTypes = dataSet1.FlightInfo
+                .Where(row => !string.IsNullOrEmpty(row.air_plane_type))
+                .Select(row => row.air_plane_type)
+                .Distinct()
+                .ToList();
+
+            foreach (var type in uniqueTypes)
+            {
+                listAirPlaneTypes.Add(type);
+            }
+
+            comboBoxAirPlaneType.ItemsSource = null;
+            comboBoxAirPlaneType.Items.Clear();
+            comboBoxAirPlaneType.ItemsSource = listAirPlaneTypes;
+        }
+        private void btnAddFlight_Click(object sender, RoutedEventArgs e)
+        {
+            DataSet1.FlightInfoRow flightInfoRow = dataSet1.FlightInfo.NewFlightInfoRow();
+
+            flightInfoRow.airline = txtAirline.Text;
+            flightInfoRow.flight_number = txtFlightNumber.Text;
+            flightInfoRow.destination = txtDestination.Text;
+            flightInfoRow.air_plane_type = comboBoxAirPlaneType.SelectedItem.ToString();
+
+            dataSet1.FlightInfo.Rows.Add(flightInfoRow);
+            flightInfoTableAdapter.Update(dataSet1.FlightInfo);
+
+            RefreshDataGridFlight();
+        }
+
+        private void btnUpdateFlight_Click(object sender, RoutedEventArgs e)
+        {
+            int selected = Convert.ToInt32(comboBoxFlights.SelectedValue);
+            DataRow[] dataRows = dataSet1.FlightInfo.Select("id=" + selected);
+
+            dataRows[0]["airline"] = txtAirline.Text;
+            dataRows[0]["flight_number"] = txtFlightNumber.Text;
+            dataRows[0]["destination"] = txtDestination.Text;
+            dataRows[0]["air_plane_type"] = comboBoxAirPlaneType.SelectedItem.ToString();
+
+            flightInfoTableAdapter.Update(dataSet1.FlightInfo);
+
+            RefreshDataGridFlight();
+
+        }
+
+        private void btnDeleteFlight_Click(object sender, RoutedEventArgs e)
+        {
+            int selected = Convert.ToInt32(comboBoxFlights.SelectedValue);
+            DataRow[] dataRows = dataSet1.FlightInfo.Select("id=" + selected);
+            if(dataRows.Length > 0)
+            {
+                dataRows[0].Delete();
+                flightInfoTableAdapter.Update(dataSet1.FlightInfo);
+                RefreshDataGridFlight();
+
+            }
+
+        }
+
+        private void comboBoxFlights_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            int selected = Convert.ToInt32(comboBoxFlights.SelectedValue);
+            DataRow[] dataRows = dataSet1.FlightInfo.Select("id=" + selected);
+
+            if (dataRows.Length > 0)
+            {
+                DataRow dataRow = dataRows[0];
+
+                txtAirline.Text = dataRow["airline"].ToString();
+                txtFlightNumber.Text = dataRow["flight_number"].ToString();
+                txtDestination.Text = dataRow["destination"].ToString();
+                comboBoxAirPlaneType.SelectedItem = dataRow["air_plane_type"].ToString();
+            }
+        }
+
         #endregion
 
         #region Users
         #endregion
 
-        private void comboBoxFlights_SelectionChanged(object sender, SelectionChangedEventArgs e)
+
+
+        private void comboBoxUsers_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
         }

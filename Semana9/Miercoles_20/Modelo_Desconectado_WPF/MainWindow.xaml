@@ -22,7 +22,7 @@
                                   Grid.ColumnSpan="3" Grid.Column="1">
                         <StackPanel Margin="25,25,0, 0">
                             <StackPanel Orientation="Horizontal">
-                                <ComboBox Width="200" Name="comboBoxUsers" />
+                                <ComboBox Width="200" Name="comboBoxUsers" SelectionChanged="comboBoxUsers_SelectionChanged" />
                                 <Button x:Name="btnAddUser" Content="Add User" />
                                 <Button x:Name="btnUpdateUser" Content="Update User" />
                                 <Button x:Name="btnDeleteUser" Content="Delete User" />
@@ -59,15 +59,15 @@
                         <StackPanel Margin="25,25,0, 0">
                             <StackPanel Orientation="Horizontal">
                                 <ComboBox Width="200" Name="comboBoxFlights" SelectionChanged="comboBoxFlights_SelectionChanged" />
-                                <Button x:Name="btnAddFlight" Content="Add Flight" />
-                                <Button x:Name="btnUpdateFlight" Content="Update Flight" />
-                                <Button x:Name="btnDeleteFlight" Content="Delete Flight" />
+                                <Button x:Name="btnAddFlight" Content="Add Flight" Click="btnAddFlight_Click" />
+                                <Button x:Name="btnUpdateFlight" Content="Update Flight" Click="btnUpdateFlight_Click" />
+                                <Button x:Name="btnDeleteFlight" Content="Delete Flight" Click="btnDeleteFlight_Click" />
                             </StackPanel>
                             <TextBlock Text="Airline"/>
                             <TextBox x:Name="txtAirline" HorizontalAlignment="Stretch" />
                             <TextBlock Text="Flight Number"/>
                             <TextBox x:Name="txtFlightNumber" HorizontalAlignment="Stretch" />
-                            <TextBlock Text="Destiantion"/>
+                            <TextBlock Text="Destination"/>
                             <TextBox x:Name="txtDestination" HorizontalAlignment="Stretch" />
                             <TextBlock Text="AirPlaneType"/>
                             <ComboBox x:Name="comboBoxAirPlaneType" Width="200" />
