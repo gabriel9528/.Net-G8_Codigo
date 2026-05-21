@@ -19,6 +19,7 @@ namespace Modelo_Desconectado_WPF
     public partial class MainWindow : Window
     {
         private List<string> listAirPlaneTypes = new List<string>();
+        private List<string> listNames = new List<string>();
 
         DataSet1 dataSet1 = new DataSet1();
         //-------------------------------------**FlightInfo**-------------------------------------------
@@ -40,8 +41,15 @@ namespace Modelo_Desconectado_WPF
 
             RefreshDataGridFlight();
             LoadUniqueAirplaneTypes();
+
+            RefreshDataGridUsers();
+            LoadUniqueNames();
         }
 
+
+
+
+        #region Flights
         private void RefreshDataGridFlight()
         {
             //ejecutar una consulta SQl en la bd para obtener los registros y llenar la tabla correspondiente
@@ -49,7 +57,7 @@ namespace Modelo_Desconectado_WPF
             flightInfoTableAdapter.Fill(dataSet1.FlightInfo);
 
             flightInfoTableAdapter.Fill(flightInfoDataTable);
-            
+
             dataGridFlights.ItemsSource = flightInfoDataTable;
 
             comboBoxFlights.ItemsSource = flightInfoDataTable;
@@ -58,10 +66,6 @@ namespace Modelo_Desconectado_WPF
 
 
         }
-
-
-        #region Flights
-
         private void LoadUniqueAirplaneTypes()
         {
 
@@ -148,13 +152,64 @@ namespace Modelo_Desconectado_WPF
         #endregion
 
         #region Users
+        private void RefreshDataGridUsers()
+        {
+            //ejecutar una consulta SQl en la bd para obtener los registros y llenar la tabla correspondiente
+            //dentro del dataSet1 con esos datos.
+            userInfoTableAdapter.Fill(dataSet1.UserInfo);
+
+            userInfoTableAdapter.Fill(userInfoDataTable);
+
+            dataGridUsers.ItemsSource = userInfoDataTable;
+
+            comboBoxUsers.ItemsSource = userInfoDataTable;
+            comboBoxUsers.DisplayMemberPath = "name";
+            comboBoxUsers.SelectedValuePath = "id";
+
+
+        }
+        private void LoadUniqueNames()
+        {
+
+            listNames.Clear();
+
+            userInfoTableAdapter.Fill(dataSet1.UserInfo);
+
+            var uniqueNames = dataSet1.UserInfo
+                .Where(row => !string.IsNullOrEmpty(row.name))
+                .Select(row => row.name)
+                .Distinct()
+                .ToList();
+
+            foreach (var type in uniqueNames)
+            {
+                listNames.Add(type);
+            }
+
+            comboBoxNextFlight.ItemsSource = null;
+            comboBoxNextFlight.Items.Clear();
+            comboBoxNextFlight.ItemsSource = listNames;
+        }
         #endregion
 
 
 
         private void comboBoxUsers_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            int selected = Convert.ToInt32(comboBoxUsers.SelectedValue);
+            DataRow[] dataRows = dataSet1.UserInfo.Select("id=" + selected);
 
+            if (dataRows.Length > 0)
+            {
+                DataRow dataRow = dataRows[0];
+
+                txtName.Text = dataRow["name"].ToString();
+                txtEmail.Text = dataRow["email"].ToString();
+                txtAge.Text = dataRow["age"].ToString();
+                txtAddress.Text = dataRow["address"].ToString();
+                comboBoxNextFlight.SelectedValue = dataRow["flight_id"].ToString();
+                
+            }
         }
     }
 }
