@@ -19,3 +19,11 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\obj
 C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\obj\Debug\net8.0-windows\Modelo_Desconectado_WPF.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\obj\Debug\net8.0-windows\Modelo_Desconectado_WPF.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\obj\Debug\net8.0-windows\ref\Modelo_Desconectado_WPF.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\obj\Debug\net8.0-windows\Modelo_Desconectado_WPF.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana9\Miercoles_20\Modelo_Desconectado_WPF\obj\Debug\net8.0-windows\Modelo_D.C483FC47.Up2Date

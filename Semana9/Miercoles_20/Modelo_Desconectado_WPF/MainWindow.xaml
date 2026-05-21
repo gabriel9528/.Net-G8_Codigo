@@ -58,7 +58,7 @@
                                     Grid.ColumnSpan="2" Grid.Column="3">
                         <StackPanel Margin="25,25,0, 0">
                             <StackPanel Orientation="Horizontal">
-                                <ComboBox Width="200" Name="comboBoxFlights" />
+                                <ComboBox Width="200" Name="comboBoxFlights" SelectionChanged="comboBoxFlights_SelectionChanged" />
                                 <Button x:Name="btnAddFlight" Content="Add Flight" />
                                 <Button x:Name="btnUpdateFlight" Content="Update Flight" />
                                 <Button x:Name="btnDeleteFlight" Content="Delete Flight" />
