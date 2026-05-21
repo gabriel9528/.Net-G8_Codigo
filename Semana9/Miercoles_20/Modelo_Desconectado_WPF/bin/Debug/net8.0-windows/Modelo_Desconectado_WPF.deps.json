@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modelo_Desconectado_WPF/1.0.0": {
+        "runtime": {
+          "Modelo_Desconectado_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelo_Desconectado_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
