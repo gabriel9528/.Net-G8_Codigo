@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\StoreProcedureWithASP.Net_Framework\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\miercoles_20\\storeprocedurewithasp.net_framework\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\miercoles_20\\storeprocedurewithasp.net_framework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\miercoles_20\\storeprocedurewithasp.net_framework\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana9\\viernes_22_05\\storeprocedurewithasp.net_framework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A954E46C-3ED3-46D6-BB91-4C95342C4316}|StoreProcedureWithASP.Net_Framework.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +50,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T03:59:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T03:52:01.554Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductDAL.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\StoreProcedureWithASP.Net_Framework\\DAL\\ProductDAL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\DAL\\ProductDAL.cs",
               "RelativeDocumentMoniker": "DAL\\ProductDAL.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\StoreProcedureWithASP.Net_Framework\\DAL\\ProductDAL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\DAL\\ProductDAL.cs",
               "RelativeToolTip": "DAL\\ProductDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAMwJ8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T01:18:26.235Z",
+              "WhenOpened": "2026-05-23T03:49:13.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T03:41:00.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T03:34:47.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T03:25:59.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswHQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:22:53.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T03:21:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\StoreProcedureWithASP.Net_Framework\\Web.config",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\StoreProcedureWithASP.Net_Framework\\Web.config",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -52,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\StoreProcedureWithASP.Net_Framework\\Models\\ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Miercoles_20\\StoreProcedureWithASP.Net_Framework\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana9\\Viernes_22_05\\StoreProcedureWithASP.Net_Framework\\Models\\ProductModel.cs",
               "RelativeToolTip": "Models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T01:09:51.385Z",
               "EditorCaption": ""
