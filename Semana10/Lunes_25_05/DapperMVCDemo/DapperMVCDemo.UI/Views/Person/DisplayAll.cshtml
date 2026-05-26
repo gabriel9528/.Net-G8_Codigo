@@ -1,0 +1,42 @@
+﻿@using DapperMVCDemo.Data.Models.Domain
+
+@model IEnumerable<Person>
+
+<h3>Lista de personas activas</h3>
+
+<div class="my-2">
+    <a href="/Person/Add" class="btn btn-info my-2">Agregar Persona</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nombres</th>
+                <th>Email</th>
+                <th>Direccion</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var person in Model)
+            {
+                <tr>
+                    <td>@person.Name</td>
+                    <td>@person.Email</td>
+                    <td>@person.Address</td>
+                    <td>
+                        <a href="/Person/Edit?id=@person.Id" class="btn btn-warning">Editar</a>
+                        <a asp-controller="Person" asp-action="Delete" asp-route-id="@person.Id" 
+                        onclick="return window.confirm('Estas seguro de eliminar este registro?')" 
+                        class="btn btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+

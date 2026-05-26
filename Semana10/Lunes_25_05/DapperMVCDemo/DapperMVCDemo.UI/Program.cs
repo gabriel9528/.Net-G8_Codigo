@@ -1,7 +1,13 @@
+using DapperMVCDemo.Data.DataAccess;
+using DapperMVCDemo.Data.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddTransient<ISqlDataAccess, SqlDataAccess>();
+builder.Services.AddTransient<IPersonRepository, PersonRepository>();
 
 var app = builder.Build();
 
