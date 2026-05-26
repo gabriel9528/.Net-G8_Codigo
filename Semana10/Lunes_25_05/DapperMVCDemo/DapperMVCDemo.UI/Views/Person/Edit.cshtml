@@ -1,0 +1,42 @@
+﻿@using DapperMVCDemo.Data.Models.Domain
+
+@model Person
+
+@{
+    ViewData["Title"] = "Editar Persona";
+}
+
+<h3>Actualizar persona</h3>
+
+<a href="/Person/DisplayAll" class="my-2 btn btn-primary">Listar todo</a>
+
+<form asp-action="Edit">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Nombre</label>
+        <input asp-for="Name" type="text" class="form-control" />
+
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" type="text" class="form-control" />
+
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label">Direccion</label>
+        <input asp-for="Address" type="text" class="form-control" />
+
+        <span class="text-danger" asp-validation-for="Address"></span>
+    </div>
+
+    <div class="mb-3">
+        <button type="submit" class="btn btn-success">Editar Persona</button>
+    </div>
+</form>
+

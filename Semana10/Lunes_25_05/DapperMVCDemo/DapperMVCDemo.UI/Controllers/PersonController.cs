@@ -48,5 +48,50 @@ namespace DapperMVCDemo.UI.Controllers
                 return View(person);
             }
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            Person? person = new Person();
+            try
+            {
+                person = await _personRepository.GetPersonByIdAsync(id);
+                return View(person);
+            }
+            catch (Exception ex)
+            {
+                return View();
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(Person person)
+        {
+            try
+            {
+                if (!ModelState.IsValid)
+                {
+                    return View(person);
+                }
+
+                bool result = await _personRepository.UpdatePersonAsync(person);
+
+                if (result)
+                {
+                    return RedirectToAction(nameof(DisplayAll));
+                }
+                return View(person);
+            }
+            catch (Exception ex)
+            {
+                return View(person);
+            }
+        }
+
+        public async Task<IActionResult> Delete(int personId)
+        {
+            var result = await _personRepository.DeletePersonAsync(personId);
+            return RedirectToAction(nameof(DisplayAll));
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperMVCDemo.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bacc5bc6de11b09aa68e31f84854291ea2fb7ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+111c1aad52e26d64f6fcb50fe7b82570d9ed9d05")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperMVCDemo.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperMVCDemo.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

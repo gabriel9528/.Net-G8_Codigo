@@ -27,7 +27,7 @@ namespace DapperMVCDemo.Data.Repository
         {
             try
             {
-                await _db.SaveData("sp_update_person", person);
+                await _db.SaveData("sp_update_person", new { person.Id, person.Name, person.Email, person.Address });
                 return true;
             }
             catch (Exception ex)

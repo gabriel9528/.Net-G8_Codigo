@@ -25,7 +25,7 @@
                     <td>@person.Address</td>
                     <td>
                         <a href="/Person/Edit?id=@person.Id" class="btn btn-warning">Editar</a>
-                        <a asp-controller="Person" asp-action="Delete" asp-route-id="@person.Id" 
+                        <a asp-controller="Person" asp-action="Delete" asp-route-personId="@person.Id" 
                         onclick="return window.confirm('Estas seguro de eliminar este registro?')" 
                         class="btn btn-danger">Eliminar</a>
                     </td>
