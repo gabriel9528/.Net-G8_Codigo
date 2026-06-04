@@ -20,13 +20,13 @@ namespace FluentAPI_EF.Repository
 
         public async Task AddDoctorAsync(Doctor doctor)
         {
-            _context.Doctors.Add(doctor);
+            await _context.Doctors.AddAsync(doctor);
             await _context.SaveChangesAsync();
         }
 
         public async Task AddPatientAsync(Patient patient)
         {
-            _context.Patients.Add(patient);
+            await _context.Patients.AddAsync(patient);
             await _context.SaveChangesAsync();
         }
     }
