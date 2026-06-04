@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "AddCarCompany",
+    "RelativePath": "api/OneToMany/Doctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "FluentAPI_EF.Models.OneTOMany.Doctor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "GetCarCompaniesAsync",
+    "RelativePath": "api/OneToMany/Doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "AddCarModel",
+    "RelativePath": "api/OneToMany/Patient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "FluentAPI_EF.Models.OneTOMany.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "GetCarModelsAsync",
+    "RelativePath": "api/OneToMany/Patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "GetCarCompaniesAsync",
+    "RelativePath": "api/OneToOne/CarCompanies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "AddCarCompany",
+    "RelativePath": "api/OneToOne/CarCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carCompany",
+        "Type": "FluentAPI_EF.Models.OneTOOne.CarCompany",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "AddCarModel",
+    "RelativePath": "api/OneToOne/CarModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carModel",
+        "Type": "FluentAPI_EF.Models.OneTOOne.CarModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "GetCarModelsAsync",
+    "RelativePath": "api/OneToOne/CarModels",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <Folder Include="Models\ManyTOMany\" />
-    <Folder Include="Models\OneTOMany\" />
   </ItemGroup>
 
 </Project>
