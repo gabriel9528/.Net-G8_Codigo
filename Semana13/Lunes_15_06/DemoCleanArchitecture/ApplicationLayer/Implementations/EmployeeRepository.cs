@@ -1,7 +1,6 @@
 ﻿using DomainLayer.Entities;
 using InfraestructureLayer.Contracts;
 using InfraestructureLayer.Data;
-using InfraestructureLayer.Dto;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApplicationLayer.Implementations
@@ -24,7 +23,7 @@ namespace ApplicationLayer.Implementations
                 return new InfraestructureLayer.Dto.ServiceResponse(false, "El empleado ya existe, cree otro");
             }
 
-            _context.Employees .Add(employee);
+            _context.Employees.Add(employee);
             await _context.SaveChangesAsync();
 
             return new InfraestructureLayer.Dto.ServiceResponse(true, "Empleado creado con exito");
@@ -62,11 +61,10 @@ namespace ApplicationLayer.Implementations
 
         }
 
-        public async Task<List<Employee>> GetALLAsync() => await 
+        public async Task<List<Employee>> GetALLAsync() => await
             _context.Employees.AsNoTracking().ToListAsync();
 
         public async Task<Employee> GetByIdAsync(int id) => await
             _context.Employees.FindAsync(id);
-
     }
 }

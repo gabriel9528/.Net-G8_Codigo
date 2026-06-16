@@ -8,7 +8,7 @@ namespace InfraestructureLayer.Contracts
         Task<ServiceResponse> AddAsync(Employee employee);
         Task<ServiceResponse> UpdateAsync(Employee employee);
         Task<ServiceResponse> DeleteAsync(int id);
-        Task<List<Employee>> GetByIdAsync(int id);
-        Task<Employee> GetALLAsync();
+        Task<List<Employee>> GetALLAsync();
+        Task<Employee> GetByIdAsync(int id);
     }
 }
