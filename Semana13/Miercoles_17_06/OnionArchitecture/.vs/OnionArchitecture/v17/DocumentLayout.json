@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C92C5231-9B30-4F17-999B-64FAE8006E81}|OnioArchitectureAPI\\OnioArchitectureAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\miercoles_17_06\\onionarchitecture\\onioarchitectureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92C5231-9B30-4F17-999B-64FAE8006E81}|OnioArchitectureAPI\\OnioArchitectureAPI.csproj|solutionrelative:onioarchitectureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDF2B459-F149-4E5B-BD5E-DDB2ABFD100D}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\miercoles_17_06\\onionarchitecture\\servicelayer\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF2B459-F149-4E5B-BD5E-DDB2ABFD100D}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75204111-7F9F-4C8C-8071-329F77CBD477}|DomainLayer\\DomainLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\miercoles_17_06\\onionarchitecture\\domainlayer\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75204111-7F9F-4C8C-8071-329F77CBD477}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C92C5231-9B30-4F17-999B-64FAE8006E81}|OnioArchitectureAPI\\OnioArchitectureAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\miercoles_17_06\\onionarchitecture\\onioarchitectureapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C5231-9B30-4F17-999B-64FAE8006E81}|OnioArchitectureAPI\\OnioArchitectureAPI.csproj|solutionrelative:onioarchitectureapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C5231-9B30-4F17-999B-64FAE8006E81}|OnioArchitectureAPI\\OnioArchitectureAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\miercoles_17_06\\onionarchitecture\\onioarchitectureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C5231-9B30-4F17-999B-64FAE8006E81}|OnioArchitectureAPI\\OnioArchitectureAPI.csproj|solutionrelative:onioarchitectureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1F64C24-D8BD-4BD2-B77B-667538A38CCA}|InfraestructreLayer\\InfraestructureLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\miercoles_17_06\\onionarchitecture\\infraestructrelayer\\migrations\\20260620003839_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,32 +54,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\OnioArchitectureAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "OnioArchitectureAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\OnioArchitectureAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "OnioArchitectureAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:30:07.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\ServiceLayer\\Implementations\\UserService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Implementations\\UserService.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\ServiceLayer\\Implementations\\UserService.cs",
               "RelativeToolTip": "ServiceLayer\\Implementations\\UserService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv3IAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-20T00:54:35.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\DomainLayer\\Interface\\IUser.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Interface\\IUser.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\DomainLayer\\Interface\\IUser.cs",
-              "RelativeToolTip": "DomainLayer\\Interface\\IUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T00:51:57.055Z",
               "EditorCaption": ""
             },
             {
@@ -92,8 +92,7 @@
               "RelativeToolTip": "InfraestructreLayer\\Migrations\\20260620003839_initial.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T00:38:40.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T00:38:40.053Z"
             },
             {
               "$type": "Document",
@@ -109,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\OnioArchitectureAPI\\Program.cs",
               "RelativeDocumentMoniker": "OnioArchitectureAPI\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Miercoles_17_06\\OnionArchitecture\\OnioArchitectureAPI\\Program.cs",
               "RelativeToolTip": "OnioArchitectureAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-20T00:31:34.571Z",
               "EditorCaption": ""

@@ -80,14 +80,54 @@ namespace ServiceLayer.Implementations
             }
         }
 
-        public List<User> GetListUsers()
+        public List<UserDto> GetListUsers()
         {
-            return _dbContext.Users.ToList();
+            try
+            {
+                var usersDtos = new List<UserDto>();
+                var users = _dbContext.Users.Where(x=>!x.IsDeleted).ToList();
+                foreach (var user in users)
+                {
+                    var userDto = new UserDto();
+                    userDto.Id = user.Id;
+                    userDto.Name = user.Name;
+                    userDto.Phone = user.Phone;
+                    userDto.Email = user.Email;
+                    userDto.Address = user.Email;
+
+                    usersDtos.Add(userDto);
+                    userDto = new UserDto();
+                }
+
+                return usersDtos;
+            }
+            catch (Exception ex)
+            {
+                return new List<UserDto>();
+            }
         }
 
-        public User GetUserById(int id)
+        public UserDto GetUserById(int id)
         {
-            return _dbContext.Users.Where(x=>x.Id== id).FirstOrDefault() ?? null;
+            try
+            {
+                var userDto = new UserDto();
+                var user = _dbContext.Users.Where(x => x.Id == id && !x.IsDeleted).FirstOrDefault() ?? null;
+
+                if (user != null)
+                {
+                    userDto.Id = user.Id;
+                    userDto.Name = user.Name;
+                    userDto.Phone = user.Phone;
+                    userDto.Email = user.Email;
+                    userDto.Address = user.Email;
+                }
+                return userDto;
+            }
+            catch (Exception ex)
+            {
+                return new UserDto();
+            }
         }
 
         
