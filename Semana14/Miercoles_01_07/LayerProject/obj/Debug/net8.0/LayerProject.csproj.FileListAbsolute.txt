@@ -262,3 +262,9 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\obj\Debug\
 C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\obj\Debug\net8.0\LayerProject.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\obj\Debug\net8.0\LayerProject.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\obj\Debug\net8.0\ref\LayerProject.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\bin\Debug\net8.0\LayerProject.DataAccess.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\bin\Debug\net8.0\LayerProject.Models.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\bin\Debug\net8.0\LayerProject.Utilities.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\bin\Debug\net8.0\LayerProject.DataAccess.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\bin\Debug\net8.0\LayerProject.Models.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject\bin\Debug\net8.0\LayerProject.Utilities.pdb

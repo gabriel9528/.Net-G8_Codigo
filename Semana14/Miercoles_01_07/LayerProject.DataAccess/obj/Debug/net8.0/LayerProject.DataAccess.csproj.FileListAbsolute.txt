@@ -13,3 +13,8 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess
 C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\obj\Debug\net8.0\LayerProject.DataAccess.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\obj\Debug\net8.0\LayerProject.DataAccess.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\obj\Debug\net8.0\ref\LayerProject.DataAccess.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\bin\Debug\net8.0\LayerProject.Models.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\bin\Debug\net8.0\LayerProject.Utilities.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\bin\Debug\net8.0\LayerProject.Models.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\bin\Debug\net8.0\LayerProject.Utilities.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Miercoles_01_07\LayerProject.DataAccess\obj\Debug\net8.0\LayerPro.6CB5F4A5.Up2Date

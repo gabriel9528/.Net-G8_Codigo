@@ -2772,6 +2772,43 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "LayerProject.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LayerProject.Models": "1.0.0",
+          "LayerProject.Utilities": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.12",
+          "Microsoft.EntityFrameworkCore": "8.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.12"
+        },
+        "compile": {
+          "bin/placeholder/LayerProject.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LayerProject.DataAccess.dll": {}
+        }
+      },
+      "LayerProject.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LayerProject.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LayerProject.Models.dll": {}
+        }
+      },
+      "LayerProject.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LayerProject.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LayerProject.Utilities.dll": {}
+        }
       }
     }
   },
@@ -7783,10 +7820,27 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "LayerProject.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../LayerProject.DataAccess/LayerProject.DataAccess.csproj",
+      "msbuildProject": "../LayerProject.DataAccess/LayerProject.DataAccess.csproj"
+    },
+    "LayerProject.Models/1.0.0": {
+      "type": "project",
+      "path": "../LayerProject.Models/LayerProject.Models.csproj",
+      "msbuildProject": "../LayerProject.Models/LayerProject.Models.csproj"
+    },
+    "LayerProject.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../LayerProject.Utilities/LayerProject.Utilities.csproj",
+      "msbuildProject": "../LayerProject.Utilities/LayerProject.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "LayerProject.DataAccess >= 1.0.0",
+      "LayerProject.Models >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 8.0.22",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.22",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.22",
@@ -7826,7 +7880,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\LayerProject.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\LayerProject.DataAccess.csproj"
+            },
+            "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.Models\\LayerProject.Models.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.Models\\LayerProject.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

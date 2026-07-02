@@ -16,4 +16,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LayerProject.Models\LayerProject.Models.csproj" />
+    <ProjectReference Include="..\LayerProject.Utilities\LayerProject.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>
