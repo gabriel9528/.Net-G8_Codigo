@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using LayerProject.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace LayerProject.Areas.Customer.Controllers
 {
