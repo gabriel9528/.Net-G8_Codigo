@@ -34,7 +34,6 @@ namespace LayerProject.Data.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("CreatedDate")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Description")
@@ -49,7 +48,6 @@ namespace LayerProject.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("UrlImage")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

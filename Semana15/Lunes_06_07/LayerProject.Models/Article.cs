@@ -15,10 +15,10 @@ namespace LayerProject.Models
         public string Description { get; set; }
 
         [Display(Name = "Fecha de creacion")]
-        public string CreatedDate { get; set; }
+        public string? CreatedDate { get; set; }
 
         [DataType(DataType.ImageUrl)]
-        public string UrlImage { get; set; }
+        public string? UrlImage { get; set; }
 
         [Required(ErrorMessage = "La categoria es obligatoria")]
         public int CategoryId { get; set; }

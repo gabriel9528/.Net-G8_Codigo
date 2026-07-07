@@ -10,9 +10,11 @@ namespace LayerProject.DataAccess.Data.Repository
         {
             _db = db;
             ICategoryRepository = new CategoryRepository(_db);
+            IArticleRepository = new ArticleRepository(_db);
         }
 
         public ICategoryRepository ICategoryRepository { get; private set; }
+        public IArticleRepository IArticleRepository { get; private set; }
 
         public void Dispose()
         {

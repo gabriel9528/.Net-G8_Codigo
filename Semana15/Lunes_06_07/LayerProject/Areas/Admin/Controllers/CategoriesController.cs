@@ -78,7 +78,6 @@ namespace LayerProject.Areas.Admin.Controllers
         }
         #endregion
 
-
         #region Delete
         [HttpDelete]
         public IActionResult Delete(int id)
@@ -104,6 +103,7 @@ namespace LayerProject.Areas.Admin.Controllers
             }
         }
         #endregion
+
         #region Call Apis
         [HttpGet]
         public IActionResult GetALL()

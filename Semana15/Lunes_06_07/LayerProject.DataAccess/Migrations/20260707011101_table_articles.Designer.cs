@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LayerProject.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260707003600_table_article")]
-    partial class table_article
+    [Migration("20260707011101_table_articles")]
+    partial class table_articles
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,7 +37,6 @@ namespace LayerProject.Data.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("CreatedDate")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Description")
@@ -52,7 +51,6 @@ namespace LayerProject.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("UrlImage")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
