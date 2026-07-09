@@ -151,7 +151,7 @@
               "RelativeDocumentMoniker": "wwwroot\\js\\article.js",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\wwwroot\\js\\article.js",
               "RelativeToolTip": "wwwroot\\js\\article.js",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwFcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-07-07T03:27:20.811Z",
               "EditorCaption": ""
@@ -190,8 +190,7 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\ArticlesController.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAIwJgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T01:46:26.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T01:46:26.484Z"
             },
             {
               "$type": "Document",
