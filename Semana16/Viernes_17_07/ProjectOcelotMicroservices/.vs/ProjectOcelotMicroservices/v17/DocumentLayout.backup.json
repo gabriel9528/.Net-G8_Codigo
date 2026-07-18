@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00DDE9AC-2398-4667-83F3-112F3CFB8B07}|AuthenticationAPI\\AuthenticationAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana16\\viernes_17_07\\projectocelotmicroservices\\authenticationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DDE9AC-2398-4667-83F3-112F3CFB8B07}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DDE9AC-2398-4667-83F3-112F3CFB8B07}|AuthenticationAPI\\AuthenticationAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana16\\viernes_17_07\\projectocelotmicroservices\\authenticationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00DDE9AC-2398-4667-83F3-112F3CFB8B07}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DDE9AC-2398-4667-83F3-112F3CFB8B07}|AuthenticationAPI\\AuthenticationAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana16\\viernes_17_07\\projectocelotmicroservices\\authenticationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00DDE9AC-2398-4667-83F3-112F3CFB8B07}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{459B55C3-19D6-46EE-AEFF-C41D57FF2104}|Weather\\Weather.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana16\\viernes_17_07\\projectocelotmicroservices\\weather\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{459B55C3-19D6-46EE-AEFF-C41D57FF2104}|Weather\\Weather.csproj|solutionrelative:weather\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{459B55C3-19D6-46EE-AEFF-C41D57FF2104}|Weather\\Weather.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana16\\viernes_17_07\\projectocelotmicroservices\\weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{459B55C3-19D6-46EE-AEFF-C41D57FF2104}|Weather\\Weather.csproj|solutionrelative:weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F317245-E78A-4F67-B836-0A6BA7A7E243}|Identity\\Identity.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana16\\viernes_17_07\\projectocelotmicroservices\\identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F317245-E78A-4F67-B836-0A6BA7A7E243}|Identity\\Identity.csproj|solutionrelative:identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F317245-E78A-4F67-B836-0A6BA7A7E243}|Identity\\Identity.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana16\\viernes_17_07\\projectocelotmicroservices\\identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +62,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\AuthenticationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\AuthenticationAPI\\Program.cs",
+              "RelativeToolTip": "AuthenticationAPI\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T01:46:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\AuthenticationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\AuthenticationAPI\\appsettings.json",
+              "RelativeToolTip": "AuthenticationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-18T01:44:42.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\AuthenticationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\AuthenticationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-18T01:43:34.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Gateway\\ocelot.json",
               "RelativeDocumentMoniker": "Gateway\\ocelot.json",
@@ -66,11 +113,12 @@
               "RelativeToolTip": "Gateway\\ocelot.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T00:49:28.907Z"
+              "WhenOpened": "2026-07-18T00:49:28.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Weather\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Weather\\Properties\\launchSettings.json",
@@ -83,20 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Identity\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Identity\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Identity\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Identity\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T00:39:06.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Weather\\Program.cs",
               "RelativeDocumentMoniker": "Weather\\Program.cs",
@@ -109,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Identity\\Program.cs",
               "RelativeDocumentMoniker": "Identity\\Program.cs",
@@ -122,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Identity\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Identity\\Controllers\\UserController.cs",
@@ -135,20 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Weather\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Weather\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Weather\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Weather\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T00:31:22.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "InterceptionMiddleWare.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Gateway\\MiddleWares\\InterceptionMiddleWare.cs",
               "RelativeDocumentMoniker": "Gateway\\MiddleWares\\InterceptionMiddleWare.cs",
@@ -161,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RestrictAccessMiddleWare.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\SharedLibrary\\RestrictAccessMiddleWare.cs",
               "RelativeDocumentMoniker": "SharedLibrary\\RestrictAccessMiddleWare.cs",
@@ -174,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Gateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Gateway\\Properties\\launchSettings.json",
@@ -182,11 +217,12 @@
               "RelativeToolTip": "Gateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T00:38:26.68Z"
+              "WhenOpened": "2026-07-18T00:38:26.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana16\\Viernes_17_07\\ProjectOcelotMicroservices\\Gateway\\Program.cs",
               "RelativeDocumentMoniker": "Gateway\\Program.cs",
@@ -194,7 +230,8 @@
               "RelativeToolTip": "Gateway\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T00:27:56.478Z"
+              "WhenOpened": "2026-07-18T00:27:56.478Z",
+              "EditorCaption": ""
             }
           ]
         }

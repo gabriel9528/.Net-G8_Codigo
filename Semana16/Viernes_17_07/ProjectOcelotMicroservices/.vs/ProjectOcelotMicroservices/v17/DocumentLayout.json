@@ -87,8 +87,7 @@
               "RelativeToolTip": "AuthenticationAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T01:44:42.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T01:44:42.294Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "AuthenticationAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T01:43:34.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T01:43:34.023Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Gateway\\ocelot.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T00:49:28.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T00:49:28.907Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "Weather\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T00:40:01.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T00:40:01.655Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "Weather\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T01:31:27.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T01:31:27.339Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "Identity\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T01:33:13.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T01:33:13.488Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "Identity\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T00:28:41.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T00:28:41.516Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "Weather\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T00:31:22.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T00:31:22.997Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "Gateway\\MiddleWares\\InterceptionMiddleWare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T01:10:44.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T01:10:44.616Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "SharedLibrary\\RestrictAccessMiddleWare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADgvwsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T01:26:27.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T01:26:27.397Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "Gateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-18T00:38:26.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T00:38:26.68Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "Gateway\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T00:27:56.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T00:27:56.478Z"
             }
           ]
         }
