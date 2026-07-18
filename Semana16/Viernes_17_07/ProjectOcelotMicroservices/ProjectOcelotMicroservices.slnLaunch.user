@@ -13,6 +13,10 @@
       {
         "Path": "Gateway\\Gateway.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "AuthenticationAPI\\AuthenticationAPI.csproj",
+        "Action": "Start"
       }
     ]
   }
