@@ -5,6 +5,7 @@ using Microservices.BackEnd.ShoppingCartAPI.Models.Dto;
 using Microservices.BackEnd.ShoppingCartAPI.Service.IService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Microservices.BackEnd.ShoppingCartAPI.Controllers
 {
@@ -84,6 +85,92 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Controllers
             {
                 _responseDto.IsSuccess = false;
                 _responseDto.Message = "Ocurrio un error: " + ex.Message;
+            }
+
+            return _responseDto;
+        }
+
+        [HttpPost("UpSert")]
+        public ResponseDto UpSertCart(CartDto cartDtoRequest)
+        {
+            try
+            {
+                CartHeader? cartHeaderFromDb = _db.CartHeaders
+                    .FirstOrDefault(x => x.UserId == cartDtoRequest.CartHeaderDto.UserId && !x.IsDeleted);
+
+                #region POST
+
+                CartHeader newCartHeader = new();
+                CartDetails newCartDetails = new CartDetails();
+
+                if(cartHeaderFromDb == null)
+                {
+                    newCartHeader.UserId = cartDtoRequest.CartHeaderDto.UserId;
+                    newCartHeader.CouponCode = cartDtoRequest.CartHeaderDto.CouponCode;
+                    newCartHeader.Discount = cartDtoRequest.CartHeaderDto.Discount;
+                    newCartHeader.CartTotal = cartDtoRequest.CartHeaderDto.CartTotal;
+
+                    _db.CartHeaders.Add(newCartHeader);
+                    _db.SaveChanges();
+
+                    //Relacionar el cartHeader con sus details
+                    cartDtoRequest!.cartDetailsDtos!.First().CartHeaderId = newCartHeader.Id;
+
+                    CartDetailsDto? cartDetailsDto = cartDtoRequest?.cartDetailsDtos?.First();
+                    newCartDetails.CartHeaderId = newCartHeader.Id;
+                    newCartDetails.ProductId = cartDetailsDto!.ProductId;
+                    newCartDetails.Count =cartDetailsDto.Count;
+
+                    _db.CartDetails.Add(newCartDetails);
+                    _db.SaveChanges();
+
+                    _responseDto.Result = newCartHeader.Id;
+                    _responseDto.Message = "Cart creado con exito";
+                }
+                #endregion
+                #region UPDATE
+                else
+                {
+                    //Revisar si los details les corresponde el mismo producto
+                    CartDetails? cartDetailsFromDb = _db.CartDetails.AsNoTracking()
+                        .FirstOrDefault(x => x.ProductId == cartDtoRequest.cartDetailsDtos
+                        .First().ProductId && x.CartHeaderId == cartHeaderFromDb.Id);
+
+                    if(cartDetailsFromDb == null)
+                    {
+                        CartDetailsDto? cartDetailsDto = cartDtoRequest.cartDetailsDtos
+                            .FirstOrDefault();
+
+                        newCartDetails.CartHeaderId = cartDetailsDto.CartHeaderId;
+                        newCartDetails.ProductId = cartDetailsDto.ProductId;
+                        newCartDetails.Count = cartDetailsDto.Count;
+
+                        _db.CartDetails.Add(newCartDetails);
+                        _db.SaveChanges();
+
+                        _responseDto.Result= newCartHeader.Id;
+                        _responseDto.Message = "Cartdetails agregados con exito";
+                    }
+                    else
+                    {
+                        //Si ecisten los details, los actualizaoms
+                        cartDetailsFromDb.Count += cartDtoRequest.cartDetailsDtos.FirstOrDefault().Count;
+                        cartDetailsFromDb.CartHeaderId += cartDtoRequest.cartDetailsDtos.FirstOrDefault().CartHeaderId;
+                        cartDetailsFromDb.ProductId += cartDtoRequest.cartDetailsDtos.FirstOrDefault().ProductId;
+
+                        _db.CartDetails.Update(cartDetailsFromDb);
+                        _db.SaveChanges();
+
+                        _responseDto.Result = true;
+                        _responseDto.Message = "CartDetails actualizados con exito";
+                    }
+                }
+                #endregion
+            }
+            catch (Exception ex)
+            {
+                _responseDto.IsSuccess = false;
+                _responseDto.Message = "Ocurrio un error: "+ex.Message;
             }
 
             return _responseDto;

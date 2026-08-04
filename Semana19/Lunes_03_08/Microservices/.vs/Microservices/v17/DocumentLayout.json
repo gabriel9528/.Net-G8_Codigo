@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "Microservices.BackEnd.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana19\\Lunes_03_08\\Microservices\\Microservices.BackEnd.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
               "RelativeToolTip": "Microservices.BackEnd.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAYwEgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwFwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-04T01:21:50.032Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "Microservices.BackEnd.ShoppingCartAPI\\Utility\\BackendAuthenticationHttpClientHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T01:14:29.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:14:29.671Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Microservices.Backend.AuthAPI\\Services\\JwtTokenGenerator.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T01:13:24.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:13:24.289Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "Microservices.Backend.AuthAPI\\Services\\AuthService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T01:13:20.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:13:20.773Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\BaseService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T01:12:44.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:12:44.631Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\TokenProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T01:12:40.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:12:40.317Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "Microservices.BackEnd.ShoppingCartAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T01:07:01.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:07:01.585Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T01:12:36.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:12:36.161Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "Microservices.BackEnd.ShoppingCartAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-04T01:11:41.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:11:41.805Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "Microservices.BackEnd.ShoppingCartAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-04T01:05:59.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T01:05:59.706Z"
             },
             {
               "$type": "Document",
@@ -224,8 +215,7 @@
               "RelativeToolTip": "Microservices.BackEnd.ShoppingCartAPI\\Service\\CouponService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T00:42:49.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T00:42:49.351Z"
             },
             {
               "$type": "Document",
@@ -237,8 +227,7 @@
               "RelativeToolTip": "Microservices.BackEnd.ShoppingCartAPI\\Service\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T00:42:37.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T00:42:37.663Z"
             },
             {
               "$type": "Document",
